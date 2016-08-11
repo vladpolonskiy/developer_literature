@@ -1,4 +1,4 @@
-Qoob - Realtime Frontend Page Builder
+Literature For Porfessional Developers
 ====================================
 
 Description
